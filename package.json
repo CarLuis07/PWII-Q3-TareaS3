@@ -1,0 +1,21 @@
+{
+  "name": "pwii-q3-tareas3",
+  "version": "1.0.0",
+  "description": "programacion web ii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./aplicacion/index.js",
+    "start:dev": "node index-dev.js"
+  },
+  "keywords": [
+    "hola",
+    "mundo"
+  ],
+  "author": "luCar07",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cryptr": "^6.2.0"
+  }
+}
